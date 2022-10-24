@@ -4,7 +4,7 @@
 
 Projeto construído no site Udemy - Desenvolvimento Web Completo 2022
 
-[Clique aqui para acessar](https://jonathandscoutinho.github.io/udemy-tecblog/)
+[Clique aqui para acessar](https://jonathandscoutinho.github.io/udemy-tecblog/ target="_blank")
 
 <hr>
 
