@@ -64,6 +64,11 @@ body {
 	background: #CCC;
 }
 
+#developer{
+	font-style: italic;
+	color: rgb(150, 72, 72);
+}
+
 /*
 **** Formatação do menu ****
 */
